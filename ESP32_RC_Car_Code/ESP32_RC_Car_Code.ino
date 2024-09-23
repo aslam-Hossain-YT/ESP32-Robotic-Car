@@ -1,3 +1,6 @@
+//esp32 board version must be 2.0.11
+//otherwise the code will not compile
+
 #include "BluetoothSerial.h"
 #include <Arduino.h>
 BluetoothSerial serialBT;
